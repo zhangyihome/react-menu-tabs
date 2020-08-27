@@ -15,13 +15,13 @@ npm i react-menu-tabs
 
 示例 
 
-import MenuTabs from "react-menu-tabs";
+import MenuTabs from "react-menu-tabs";  
 const mainMenu=[
       { name: '示例一', sub: [{ name: '示例1.1', path: 'demo/IndexPage' }] },
       { name: '示例二', sub: [{ name: '示例2.1', path: 'demo/IndexPage' },] },
-    ]
+    ]  
 	
-<MenuTabs mainMenu={mainMenu} />
+<MenuTabs mainMenu={mainMenu} />  
 
 
 
