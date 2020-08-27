@@ -1,0 +1,19 @@
+{
+  "name": "react-menu-tabs",
+  "version": "1.0.0",
+  "description": "react menu tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhangyihome/react-menu-tabs.git"
+  },
+  "author": "zhangyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangyihome/react-menu-tabs/issues"
+  },
+  "homepage": "https://github.com/zhangyihome/react-menu-tabs#readme"
+}
