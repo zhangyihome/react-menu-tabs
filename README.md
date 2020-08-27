@@ -20,7 +20,6 @@ const mainMenu=[
       { name: '示例一', sub: [{ name: '示例1.1', path: 'demo/IndexPage' }] },
       { name: '示例二', sub: [{ name: '示例2.1', path: 'demo/IndexPage' },] },
     ]  
-	
 <MenuTabs mainMenu={mainMenu} />  
 
 
